@@ -8,6 +8,7 @@ int getMyHand();
 int getVs(int,int);
 void printResult();
 
+int shimizu;
 
 int main(){
  
